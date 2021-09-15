@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This is a tutorial to learn the basics",
+  "main": "global.js",
+  "scripts": {
+    "test": "node global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham7567/Node-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham7567/Node-basics/issues"
+  },
+  "homepage": "https://github.com/Shubham7567/Node-basics#readme"
+}
